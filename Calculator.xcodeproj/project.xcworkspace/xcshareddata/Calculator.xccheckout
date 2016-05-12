@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>BE636306-1D9A-43D7-A655-AF5E68DB8D4A</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Calculator</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>90409079220A81AD6CFEA54AC96FDF45427AEBDF</key>
+		<string>ssh://Brians-iMac.local/git/Calculator.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Calculator.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>90409079220A81AD6CFEA54AC96FDF45427AEBDF</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>ssh://Brians-iMac.local/git/Calculator.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>90409079220A81AD6CFEA54AC96FDF45427AEBDF</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>90409079220A81AD6CFEA54AC96FDF45427AEBDF</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Calculator</string>
+		</dict>
+	</array>
+</dict>
+</plist>
